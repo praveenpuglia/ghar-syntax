@@ -1,14 +1,15 @@
 {
-  "name": "one-dark-syntax",
+  "name": "ghar-syntax",
   "theme": "syntax",
-  "version": "1.2.0",
-  "description": "A dark syntax theme",
+  "version": "0.0.1",
+  "description": "A 'gharelu' syntax theme",
   "keywords": [
-    "dark",
-    "blue",
-    "syntax"
+    "light",
+    "bold",
+    "syntax",
+    "contrast"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/praveenpuglia/ghar-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
