@@ -1,11 +1,21 @@
-## One Dark Syntax theme
+## Ghar Syntax Theme For Atom
 
-![one-dark-syntax](https://cloud.githubusercontent.com/assets/378023/7783203/49271ef6-0174-11e5-8eb1-d80b8d34a0e3.png)
+![Ghar Syntax](1.png)
 
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
+---
 
-There is also a matching [UI theme](https://atom.io/themes/one-dark-ui).
+![Ghar Syntax](2.png)
+
+> The font used in the screenshot is [Code New Roman](http://www.dafont.com/code-new-roman.font).
 
 ### Install
 
-This theme is installed by default with Atom and can be activated by going to the __Settings > Themes__ section and selecting it from the __Syntax Themes__ drop-down menu.
+#### From Terminal
+```bash
+apm install ghar-syntax
+```
+
+#### From Settings
+**Settings** > **Install** > **Select 'Themes'** > **Search 'ghar-syntax'**.
+
+Activate by going to the __Settings > Themes__ section and selecting it from the __Syntax Themes__ drop-down menu.
