@@ -1,10 +1,10 @@
 ## Ghar Syntax Theme For Atom
 
-![Ghar Syntax](1.png)
+![Ghar Syntax](https://github.com/praveenpuglia/ghar-syntax/raw/master/1.png)
 
 ---
 
-![Ghar Syntax](2.png)
+![Ghar Syntax](https://github.com/praveenpuglia/ghar-syntax/raw/master/2.png)
 
 > The font used in the screenshot is [Code New Roman](http://www.dafont.com/code-new-roman.font).
 
